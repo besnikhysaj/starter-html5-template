@@ -1,0 +1,29 @@
+{
+	"name": "starter-template",
+	"version": "1.0.0",
+	"description": "This is a starter html5 template",
+	"main": "Gruntfile.js",
+	"scripts": {
+		"test": "grunt"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/besnikhysaj/starter-html5-template.git"
+	},
+	"keywords": [
+		"starter",
+		"html5",
+		"template"
+	],
+	"author": "Besnik Hysaj",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/besnikhysaj/starter-html5-template/issues"
+	},
+	"homepage": "https://github.com/besnikhysaj/starter-html5-template#readme",
+	"dependencies": {
+		"grunt": "^1.0.1",
+		"jquery": "^3.2.1",
+		"normalize.css": "^6.0.0"
+	}
+}
