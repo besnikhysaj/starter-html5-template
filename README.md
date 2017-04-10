@@ -1,2 +1,2 @@
-# starter-html5-template
-This is a starter html5 template
+# HTML5 Starter Template
+This is a simple HTML5 template for big projects
