@@ -18,4 +18,4 @@ https://github.com/besnikhysaj/starter-html5-template/archive/master.zip
 <pre>npm install</pre> 
 
 - Create a local server with GruntJs
-<pre>grunt or grunt serve</pre>
+<pre>grunt</pre>
