@@ -14,6 +14,8 @@ https://github.com/besnikhysaj/starter-html5-template/archive/master.zip
 
 ## After install
 
-- Run <pre>npm install</pre>, to install all npm dependecies
+- Install all npm dependecies
+<pre>npm install</pre> 
 
-- Run <pre>grunt</pre> or <pre>grunt serve</pre>, to create a local and livereload server with GruntJs
+- Create a local server with GruntJs
+<pre>grunt</pre> or <pre>grunt serve</pre>
