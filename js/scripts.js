@@ -1,3 +1,5 @@
 $(document).ready(function(){
-	alert("Starter template");
+
+	$('.app-status').html("<h3>Application is ready... :)</h3>");
+
 });
