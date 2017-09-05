@@ -22,12 +22,11 @@
 	},
 	"homepage": "https://github.com/besnikhysaj/starter-html5-template#readme",
 	"dependencies": {
-		"jquery": "^3.2.1",
-		"normalize.css": "^6.0.0"
+		"jquery": "*"
 	},
 	"devDependencies": {
-		"grunt": "^1.0.1",
-		"grunt-contrib-connect": "^1.0.2",
-		"grunt-contrib-watch": "^1.0.0"
+		"grunt": "*",
+		"grunt-contrib-connect": "*",
+		"grunt-contrib-watch": "*"
 	}
 }
