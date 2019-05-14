@@ -22,7 +22,7 @@
 	},
 	"homepage": "https://github.com/besnikhysaj/starter-html5-template#readme",
 	"dependencies": {
-		"jquery": "^3.4.0"
+		"jquery": "~> 3.4.0"
 	},
 	"devDependencies": {
 		"grunt": "^1.0.3",
